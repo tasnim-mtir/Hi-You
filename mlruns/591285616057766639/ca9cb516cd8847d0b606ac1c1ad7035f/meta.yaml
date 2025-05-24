@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/591285616057766639/ca9cb516cd8847d0b606ac1c1ad7035f/artifacts
+end_time: 1747428467978
+entry_point_name: ''
+experiment_id: '591285616057766639'
+lifecycle_stage: active
+run_id: ca9cb516cd8847d0b606ac1c1ad7035f
+run_name: abrasive-hen-501
+run_uuid: ca9cb516cd8847d0b606ac1c1ad7035f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747428456539
+status: 3
+tags: []
+user_id: Tasnim

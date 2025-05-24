@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/591285616057766639/4d039846226c4d1d8eeab23e36e3b32e/artifacts
+end_time: 1747428495031
+entry_point_name: ''
+experiment_id: '591285616057766639'
+lifecycle_stage: active
+run_id: 4d039846226c4d1d8eeab23e36e3b32e
+run_name: angry-deer-741
+run_uuid: 4d039846226c4d1d8eeab23e36e3b32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747428488669
+status: 3
+tags: []
+user_id: Tasnim

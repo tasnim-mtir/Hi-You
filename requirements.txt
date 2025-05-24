@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+scikit-learn
+imbalanced-learn
+pandas
+joblib
+mlflow
+elasticsearch
